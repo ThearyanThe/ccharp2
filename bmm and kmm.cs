@@ -3,9 +3,9 @@ class program
 {
     public static void Main()
     {
-        Console.WriteLine("please enter number1 for b m m :");
+        Console.WriteLine("please enter number1 for b m m and kmm :");
         string num1 = Console.ReadLine();
-        Console.WriteLine("please enter number2 for b m m :");
+        Console.WriteLine("please enter number2 for b m m and kmm:");
 
         string num2 = Console.ReadLine();
         int a = Convert.ToInt32(num1);
